@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yashkapure06@gmail.com**
 
-- 📄 Know about my experiences [https://yashkapure-portfolio.web.app/](https://yashkapure-portfolio.web.app/)
+- 📄 Know about my experiences [My Portfolio](https://yash-kapure.vercel.app/)
 
 - ⚡ Fun fact **I love to Learn New Thing and Technologies**
 

@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJs, Java**
 
-- 👨‍💻 All of my projects are available at [https://yashkapure-portfolio.web.app/](https://yashkapure-portfolio.web.app/)
+- 👨‍💻 All of my projects are available at [https://yash-kapure.vercel.app/](https://yash-kapure.vercel.app/)
 
 - 💬 Ask me about **ReactJs, frontend Web Development, NextJs, CSS, Pyton**
 

@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Flutter, Java Basics** whenever I get time, + **Python for AI**
 
-- 👨‍💻 All of my projects are available at [https://yash-kapure.vercel.app/](https://yash-kapure.vercel.app/)
+<!-- 👨‍💻 All of my projects are available at [https://yash-kapure.vercel.app/](https://yash-kapure.vercel.app/) -->
 
 - 💬 Ask me about **Frontend Web Development, ReactJs, NextJs, CSS, MaterialUI, Python**
 
 - 📫 How to reach me **yashkapure06@gmail.com**
 
-- 📄 Know about my experiences [My Portfolio](https://yash-kapure.vercel.app/)
+<!-- 📄 Know about my experiences [My Portfolio](https://yash-kapure.vercel.app/)-->
 
 - ⚡ Fun fact **I love to Learn New Thing and Technologies**
 

@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yash Kapure</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FULLSTACK developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashkapure06&label=Profile%20views&color=0e75b6&style=flat" alt="yashkapure06" /> </p>
 
 
-- 🌱 I’m currently learning **ReactNative, DSA** whenever I get time, + **Python for AI**
+- 🌱 I’m currently learning **Java, DSA** whenever I get time, + **ReactNative**
 
 <!-- 👨‍💻 All of my projects are available at [https://yash-kapure.vercel.app/](https://yash-kapure.vercel.app/) -->
 

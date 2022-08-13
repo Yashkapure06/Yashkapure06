@@ -30,12 +30,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashkapure06&show_icons=true&theme=dark&locale=en" alt="yashkapure06" /></p> 
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yashkapure06&theme=dark&hide_border=false)<br/>
+
 # 📊GitHub Stats :
 
 <p><img  height="450" width="100%" align="center" src="https://wakatime.com/share/@_yashkapure_/9c82d094-708b-45f5-97dd-5a2a19a126a3.svg" alt="yashkapure06" /></p>
 
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Yashkapure06&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>-->
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yashkapure06&theme=dark&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashkapure06&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)-->
 

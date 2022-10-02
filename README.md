@@ -35,6 +35,8 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yashkapure06&theme=dark&hide_border=false)<br/>
 
+[![Yash's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yashkapure06&bg_color=000000&color=4c9d9e&line=e2a2be&point=0cfd08&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 # 📊GitHub Stats :
 
 <p><img  height="450" width="100%" align="center" src="https://wakatime.com/share/@_yashkapure_/9c82d094-708b-45f5-97dd-5a2a19a126a3.svg" alt="yashkapure06" /></p>

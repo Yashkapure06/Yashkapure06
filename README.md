@@ -56,7 +56,7 @@
 
 </p>
 
-[![Yash's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yashkapure06&bg_color=000000&color=4c9d9e&line=e2a2be&point=0cfd08&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Yash's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yashkapure06&bg_color=000000&color=4c9d9e&line=e2a2be&point=0cfd08&area=true&theme=radical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- # 📊GitHub Stats :
 

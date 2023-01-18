@@ -96,7 +96,7 @@
   </td>
   <td align="center">
   <a href="https://github.com/Yashkapure06>
-    <img align="center" height="190px" src="https://github-readme-stats.vercel.app/api?username=yashkapure06&show_icons=true&theme=radical&locale=en" />
+    <img align="center" height="190px" src="https://github-readme-stats.vercel.app/api?username=yashkapure06&show_icons=true&theme=radical&locale=en"/>
   </a>
   </td>
 </p>

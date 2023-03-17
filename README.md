@@ -72,6 +72,10 @@
 <a style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/Sass-E75480?logo=sass&logoColor=fff&style=for-the-badge" />
 </a>
+  
+<a style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/Vuejs-6DA55F?logo=vue.js&logoColor=fff&style=for-the-badge" />
+</a>
 </div>
 
 

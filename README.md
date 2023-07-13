@@ -98,10 +98,11 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashkapure06&show_icons=true&theme=radical&locale=en&layout=compact"/>
     </a>
     </td>
-    <td align="center">
-    <a href="https://github.com/Yashkapure06">
-      <img align="center" height="190px" src="https://github-readme-stats.vercel.app/api?username=yashkapure06&show_icons=true&theme=radical&locale=en"/>
-    </a>
+<!--     <td align="center"> -->
+<!--     <a href="https://github.com/Yashkapure06"> -->
+<!--      ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yashkapure06&show_icons=true&theme=radical&locale=en) -->
+<!--       <img align="center" height="190px" src="https://github-readme-stats.vercel.app/api?username=yashkapure06&show_icons=true&theme=radical&locale=en"/> -->
+<!--     </a> -->
   </p>
  </tr>
 </table>
@@ -115,8 +116,6 @@
 <img height="140" width="140" src="https://github.com/Yashkapure06/Yashkapure06/blob/main/PNG/right.png">
 
 </p>
-
-[![Yash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Yashkapure06&bg_color=1c172b&color=569e4c&line=ffffff&point=58ee71&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
                                                                                                         
 
 

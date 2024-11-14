@@ -3,7 +3,7 @@
 
 <!-- [![@kapureyash's Holopin board](https://holopin.io/api/user/board?user=kapureyash)](https://holopin.io/@kapureyash) -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashkapure06&label=Profile%20views&color=0e75b6&style=flat" alt="yashkapure06" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashkapure06&label=Profile%20views&color=0e75b6&style=flat" alt="yashkapure06" />  <a href="https://wakatime.com/@ebd9048f-e0e9-4dcc-acbc-0fc646a232fa"><img src="https://wakatime.com/badge/user/ebd9048f-e0e9-4dcc-acbc-0fc646a232fa.svg" alt="Total time coded since Apr 18 2022" /></a></p>
 
 
 <!-- - 🌱 I’m currently learning **Java, DSA** whenever I get time, + **ReactNative** -->

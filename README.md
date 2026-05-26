@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yash Kapure</h1>
-<h3 align="center">A passionate Front-End and Full-Stack Developer from India</h3>
+<h1 align="center">Yash Kapure</h1>
+<h3 align="center">Software Engineer focused on building fast, maintainable web products</h3>
 
 <!-- [![@kapureyash's Holopin board](https://holopin.io/api/user/board?user=kapureyash)](https://holopin.io/@kapureyash) -->
 
